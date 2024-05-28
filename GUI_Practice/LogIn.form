@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="GUI_Practice.LogIn">
+  <grid id="27dc6" binding="panel1" default-binding="true" layout-manager="CardLayout" hgap="0" vgap="0">
+    <constraints>
+      <xy x="20" y="143" width="500" height="277"/>
+    </constraints>
+    <properties/>
+    <border type="none"/>
+    <children>
+      <component id="84afc" class="javax.swing.JLabel">
+        <constraints>
+          <card name="Card1"/>
+        </constraints>
+        <properties>
+          <text value="Log In"/>
+        </properties>
+      </component>
+      <grid id="301d1" layout-manager="CardLayout" hgap="0" vgap="0">
+        <constraints>
+          <card name="Card2"/>
+        </constraints>
+        <properties/>
+        <border type="none"/>
+        <children/>
+      </grid>
+    </children>
+  </grid>
+</form>
